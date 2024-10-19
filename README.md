@@ -31,6 +31,6 @@ I created MoneyMinder inspired by observing my parents gather receipts for every
 * **Receipt Scanning:** Add a feature to read photos of receipts and convert them into meaningful data.
 * **Enhanced Visualization Options:** Provide a greater variety of viewing formats such as graphs, bars, pies, bullets, funnels, etc.
 * **Improved Documentation and Performance:** Refine documentation, optimize runtime, and enhance code style.
-* **Additional Features:** Explore and implement other valuable features based on user feedback and emerging needs.
+* **Additional Features:** Explore and implement other valuable features based on feedback and emerging needs.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
