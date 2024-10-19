@@ -2,7 +2,7 @@
 MoneyMinder is a expense tracker app designed for Windows and macOS. It operates offline and allows user to manage and visualize their financial data efficiently.
 ## Video Demo
 https://youtu.be/1fAf4BDCJaM
-*dataCollection.py and newwindow.py are the files that were compiled into final executable
+* dataCollection.py and newwindow.py are the files that were compiled into final executable
 ## How it was built
 MoneyMinder was developed using:
 * Custom Tkinter for GUI interactions
